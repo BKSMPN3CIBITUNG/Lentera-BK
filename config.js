@@ -4,7 +4,7 @@
  * File ini TIDAK boleh berisi kata sandi, token, atau Spreadsheet ID.
  */
 window.LENTERA_CONFIG = {
-  API_URL: 'https://script.google.com/macros/s/GANTI_DENGAN_ID_DEPLOYMENT/exec',
+  API_URL: 'https://script.google.com/macros/s/AKfycbwyO7Q_U02m5jGEjWyER0LYHERulCPKlO3PTH6fCveuxxIlTvN9DJK3odGvFA-C3QFO-w/exec',
   REQUEST_TIMEOUT_MS: 45000,
   // Keluar otomatis bila tidak ada aktivitas (menit). Penting untuk komputer lab yang dipakai bergantian.
   IDLE_MINUTES_SISWA: 10,
